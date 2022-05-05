@@ -6,7 +6,7 @@ import bugImageUrl from "../../assets/bug.svg";
 import ideaImageUrl from "../../assets/idea.svg";
 import thoughtImageUrl from "../../assets/thought.svg";
 import { FeedbackTypeStep } from "./Steps/FeedbackTypeStep";
-import { FeedbackContentStep } from "./Steps/FeedbackTContentStep";
+import { FeedbackContentStep } from "./Steps/FeedbackContentStep";
 
 export const feedbackTypes = {
     BUG: {
